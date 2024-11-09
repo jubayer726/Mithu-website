@@ -12,8 +12,9 @@ body {
 
 header {
     background-color: #CCCCFF;
-    color: #fff;
-    padding: 1rem 0;
+    color: #000000;
+    transition: 0.3s;
+    padding: 1 rem 0;
     text-align: center;
 }
 /* logo {
